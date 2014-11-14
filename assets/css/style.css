@@ -121,11 +121,11 @@ body {
   clear: both;
   margin: 0 auto;
   width: 60%;
-  max-width: 900px;
+  max-width: 800px;
 }
 .container.wide {
   width: 80%;
-  max-width: 900px;
+  max-width: 800px;
 }
 .container:after {
   visibility: hidden;
