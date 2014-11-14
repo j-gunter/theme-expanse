@@ -669,7 +669,6 @@ a.btn.btn-mini:hover {
 .post h1 {
   padding: 0 0 50px 0;
   margin: 0;
-  font-style: uppercase;
 }
 .post h2,
 .post h3,
@@ -677,6 +676,8 @@ a.btn.btn-mini:hover {
   color: #f76f4f;
   padding: 12.5px 0 12.5px 0;
   margin: 0;
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
 }
 .post .post-footer {
   display: block;
