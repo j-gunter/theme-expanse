@@ -67,10 +67,10 @@ a:hover {
   float: right;
 }
 body {
-  font-size: 150%;
+  font-size: 125%;
   font-family: 'Droid Serif', serif;
   color: #0e3029;
-  line-height: 2.5rem;
+  line-height: 2rem;
   font-weight: 400;
 }
 h1,
