@@ -125,7 +125,7 @@ body {
 }
 .container.wide {
   width: 80%;
-  max-width: 1280px;
+  max-width: 900px;
 }
 .container:after {
   visibility: hidden;
