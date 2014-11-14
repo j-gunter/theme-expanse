@@ -779,6 +779,7 @@ a.btn.btn-mini:hover {
 }
 .post-content h1 {
   padding-bottom: 25px;
+  font-style: uppercase;
 }
 .post-content h2,
 .post-content h3 {
